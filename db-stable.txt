@@ -1,0 +1,30 @@
+:bslib
+Name;Windows Batch Library (new)
+Info;The Window Batch Library is a collection of pre-written macros, functions, and\nconstants that can be used to simplify and speed up the process of creating\ncommand-line interfaces (CLIs) and other types of text-based user interfaces\n(TUIs). This library includes a wide range of functions and macros,\nincluding standard console manipulations, mathematical calculations,\ncolor and text formatting, and mouse input.\n[Windows 10 or later]
+Authors;Icarus
+LatestVer;95dfeec
+NewsLink;None
+DefaultDownload;https://codeload.github.com/IcarusLivesHF/Batch-Libraries/zip/refs/heads/main;zip;main
+[Downloads]
+95dfeec;https://codeload.github.com/IcarusLivesHF/Batch-Libraries/zip/refs/heads/main;zip;main
+[\Downloads]
+:tg
+Name;Turtle Graphics
+Info;Turtle Graphics in Batch
+LatestVer;aff5e3f
+Authors;Icarus
+NewsLink;None
+DefaultDownload;https://raw.githubusercontent.com/IcarusLivesHF/Turtle-Graphics/main/Turtle_Graphics.bat;bat
+[Downloads]
+aff5e3f;https://raw.githubusercontent.com/IcarusLivesHF/Turtle-Graphics/main/Turtle_Graphics.bat;bat
+[\Downloads]
+:wrecover
+Name;Windows Files Recover
+Info;Windows Files Recovery utility
+LatestVer;1.2
+Authors;AuchenDevs
+NewsLink;None
+DefaultDownload;https://raw.githubusercontent.com/AuchenDevs/WindowsFilesRecover/main/WindowsFilesRecover%20v1.2.bat;bat
+[Downloads]
+1.2;https://raw.githubusercontent.com/AuchenDevs/WindowsFilesRecover/main/WindowsFilesRecover%20v1.2.bat;bat
+[\Downloads]
